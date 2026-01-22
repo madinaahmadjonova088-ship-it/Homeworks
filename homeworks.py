@@ -1,4 +1,4 @@
-Mohinur, [22.01.2026 0: 32]
+ [22.01.2026 0: 32]
 #  Mavzu:Chiziqli masalalar
 #  Vazifa
 
@@ -114,7 +114,7 @@ Mohinur, [22.01.2026 0: 32]
 # a,b,c=c,a,b
 # print(a,b,c)
 
-Mohinur, [22.01.2026 0: 32]
+Madinabonu, [22.01.2026 0: 32]
 # 18-misol
 # Ax = float(input("A nuqtaning x koordinatasi: "))
 # Ay = float(input("A nuqtaning y koordinatasi: "))
@@ -163,9 +163,9 @@ Mohinur, [22.01.2026 0: 32]
 # print("Joylashmay qolgan=", q)
 
 # 6-misol
-# son = int(input("Ikki xonali son kiriting: "))
-# onlik = son // 10
-# birlik = son % 10
+# a = int(input("Ikki xonali son kiriting: "))
+# onlik = a // 10
+# birlik = a % 10
 # print("O'nliklar xonasi:", onlik)
 # print("Birlar xonasi:", birlik)
 
@@ -177,29 +177,29 @@ Mohinur, [22.01.2026 0: 32]
 # print("Raqamlar yig'indisi =", yigindi)
 
 # 8-misol
-# son=int(input("Ikki xonali son kiriting: "))
-# onlik = son // 10
-# birlik = son % 10
+# a=int(input("Ikki xonali son kiriting: "))
+# onlik = a// 10
+# birlik = a % 10
 # yangi_son = birlik * 10 + onlik
 # print("Raqamlar o‘rnini almashtirgandagi son =", yangi_son)
 
 # 9-misol
-# son=int(input("Uch xonali son yozing: "))
-# yuzlik=son//100
+# a=int(input("Uch xonali son yozing: "))
+# yuzlik=a//100
 # print("Yuzlar xonasidagi raqam=",yuzlik)
 
 # 10-misol
-# son=int(input("Uch xonali son kiriting: "))
-# birlik=son%10
-# onlik=son//10
+# a=int(input("Uch xonali son kiriting: "))
+# birlik=a%10
+# onlik=a//10
 # print("birlik xonasidagi son=", birlik)
 # print("onlik xonasidagi son=", onlik)
 
 # 11-misol
-# son=int(input("Uch xonali son kiriting: "))
-# yuzlik=son//100
-# onlik=(son//10)% 10
-# birlik=son%10
+# a=int(input("Uch xonali son kiriting: "))
+# yuzlik=a//100
+# onlik=(a//10)% 10
+# birlik=a%10
 # yigindi = yuzlik+ onlik + birlik
 # print("Raqamlar yig'indisi =", yigindi)
 
@@ -212,17 +212,17 @@ Mohinur, [22.01.2026 0: 32]
 # print("Teskari tartibdagi son =", teskari)
 
 # 13-misol
-# son = int(input("Uch xonali son kiriting: "))
-# yuzlik = son // 100
-# onlik = (son // 10) % 10
-# birlik = son % 10
+# a = int(input("Uch xonali son kiriting: "))
+# yuzlik = a// 100
+# onlik = (a// 10) % 10
+# birlik = a % 10
 # yangi_son = onlik * 100 + birlik * 10 + yuzlik
 # print("Hosil bo'lgan yangi son =", yangi_son)
 
 # 14-misol
-# son = int(input("Uch xonali son kiriting: "))
-# birlik = son % 10
-# qolgan = son // 10
+# a = int(input("Uch xonali son kiriting: "))
+# birlik = a % 10
+# qolgan = sa// 10
 # yangi_son = birlik * 100 + qolgan
 # print("Hosil bo'lgan yangi son =", yangi_son)
 
@@ -283,12 +283,10 @@ Mohinur, [22.01.2026 0: 32]
 # if a>2 and b>=3:
 #     print("Jumla rost")
 # else:
-#     print("
+#     print("Jumlayolgon")
 
-Mohinur, [22.01.2026 0: 32]
-Jumla
-yolgon
-")
+
+Madinabonu , [22.01.2026]
 
 # 5-misol
 # a=int(input(" sonni kiriting: "))
@@ -341,35 +339,35 @@ yolgon
 #     print("yolgon")
 
 # 11-misol
-# a=int(input(" son kiriting: "))
-# b=int(input(" son kiriting: "))
+# a=int(input(" raqam  kiriting: "))
+# b=int(input(" raqam kiriting: "))
 # if a % 2 == b % 2:
 #     print("rost")
 # else:
 #     print("yolg'on")
 
 # 12-misol
-# a=int(input(" sonni kiriting: "))
-# b=int(input(" sonni kiriting: "))
-# c=int(input(" sonni kiriting: "))
+# a=int(input(" raqam kiriting: "))
+# b=int(input(" raqam kiriting: "))
+# c=int(input(" raqam kiriting: "))
 # if a > 0 and b > 0 and c > 0:
 #     print("rost")
 # else:
 #     print("yolgon")
 
 # 13-misol
-# a = int(input("a sonini kiriting: "))
-# b = int(input("b sonini kiriting: "))
-# c = int(input("c sonini kiriting: "))
+# a = int(input("a raqam kiriting: "))
+# b = int(input("b raqam kiriting: "))
+# c = int(input("c raqam kiriting: "))
 # if a > 0 or b > 0 or c > 0:
 #     print("rost")
 # else:
 #     print("yolgon")
 
 # 14-misol
-# a = int(input("a sonini kiriting: "))
-# b = int(input("b sonini kiriting: "))
-# c = int(input("c sonini kiriting: "))
+# a = int(input("a raqam kiriting: "))
+# b = int(input("b raqam kiriting: "))
+# c = int(input("c raqam kiriting: "))
 # if a < 0 or b < 0 or c < 0:
 #      print("rost")
 # else:
@@ -394,9 +392,9 @@ yolgon
 # 16-misol
 # son = int(input("Sonni kiriting: "))
 # if 10 <= son <= 99 and son % 2 == 0:
-#     print("Jumla rost")
+#     print("Rost")
 # else:
-#     print("Jumla yolg'on")
+#     print(" Yolg'on")
 
 # 17-misol
 # a=int(input("Musbat butun sonni kiriting: "))
@@ -461,7 +459,7 @@ yolgon
 # else:
 #     print(False)
 
-Mohinur, [22.01.2026 0: 32]
+Madinabonu, [22.01.2026 ]
 # 24-misol
 # A = int(input("sonni yozing:"))
 # B = int(input("sonni yozing: "))
@@ -481,8 +479,8 @@ Mohinur, [22.01.2026 0: 32]
 #     print(False)
 
 # 26-misol
-# x = int(input("Sonni kiriting: "))
-# y = int(input("Sonni kiriting: "))
+# x = int(input("Raqam  kiriting: "))
+# y = int(input("Raqam kiriting: "))
 # if x > 0 and y < 0:
 #     print(True)
 # else:
@@ -653,7 +651,7 @@ Mohinur, [22.01.2026 0: 32]
 #     n=10
 #     print(n)
 
-Mohinur, [22.01.2026 0: 32]
+Madinabonu, [22.01.2026]
 # 4-misol
 # a=int(input("son: "))
 # b=int(input("son: "))
@@ -748,348 +746,353 @@ Mohinur, [22.01.2026 0: 32]
 # print("B =", B)
 
 # 12-misol
-a = int(input())
-b = int(input())
-c = int(input())
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
-if a <= b and a <= c:
-    print(a)
-elif b <= a and b <= c:
-    print(b)
-else:
-    print(c)
+# if a <= b and a <= c:
+#     print(a)
+# elif b <= a and b <= c:
+#     print(b)
+# else:
+#     print(c)
 
 # 13-misol
-a = int(input())
-b = int(input())
-c = int(input())
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
-if a > b and a < c or a < b and a > c:
-    print(a)
-elif b > a and b < c or b < a and b > c:
-    print(b)
-else:
-    print(c)
+# if a > b and a < c or a < b and a > c:
+#     print(a)
+# elif b > a and b < c or b < a and b > c:
+#     print(b)
+# else:
+#     print(c)
 
 # 14-misol
-a = int(input())
-b = int(input())
-c = int(input())
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
-if a <= b and a <= c:
-    print(a)
-elif b <= a and b <= c:
-    print(b)
-else:
-    print(c)
+# if a <= b and a <= c:
+#     print(a)
+# elif b <= a and b <= c:
+#     print(b)
+# else:
+#     print(c)
 
-if a >= b and a >= c:
-    print(a)
-elif b >= a and b >= c:
-    print(b)
-else:
-    print(c)
+# if a >= b and a >= c:
+#     print(a)
+# elif b >= a and b >= c:
+#     print(b)
+# else:
+#     print(c)
 
 # 15-misol
-a = int(input())
-b = int(input())
-c = int(input())
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
-if a + b >= a + c and a + b >= b + c:
-    print(a, b)
-elif a + c >= a + b and a + c >= b + c:
-    print(a, c)
-else:
-    print(b, c)
+# if a + b >= a + c and a + b >= b + c:
+#     print(a, b)
+# elif a + c >= a + b and a + c >= b + c:
+#     print(a, c)
+# else:
+#     print(b, c)
 
-# 16-misol
-a = int(input())
-b = int(input())
-c = int(input())
+ # 16-misol
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
-if a < b and b < c:
-    print(a * 2, b * 2, c * 2)
-else:
-    print(-a, -b, -c)
+# if a < b and b < c:
+#     print(a * 2, b * 2, c * 2)
+# else:
+#     print(-a, -b, -c)
 
 # 17-misol
-a = int(input())
-b = int(input())
-c = int(input())
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
-if a < b and b < c or a > b and b > c:
-    print(a * 2, b * 2, c * 2)
-else:
-    print(-a, -b, -c)
+# if a < b and b < c or a > b and b > c:
+#     print(a * 2, b * 2, c * 2)
+# else:
+#     print(-a, -b, -c)
 
 # 18-misol
-a = int(input())
-b = int(input())
-c = int(input())
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
-if a == b:
-    print(3)
-elif a == c:
-    print(2)
-else:
-    print(1)
+# if a == b:
+#     print(3)
+# elif a == c:
+#     print(2)
+# else:
+#     print(1)
 
 # 19-misol
-a = int(input())
-b = int(input())
-c = int(input())
-d = int(input())
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# d = int(input())
 
-if b == c and c == d:
-    print(1)
-elif a == c and c == d:
-    print(2)
-elif a == b and b == d:
-    print(3)
-else:
-    print(4)
+# if b == c and c == d:
+#     print(1)
+# elif a == c and c == d:
+#     print(2)
+# elif a == b and b == d:
+#     print(3)
+# else:
+#     print(4)
 
 # 20-misol
-A = int(input())
-B = int(input())
-C = int(input())
+# A = int(input())
+# B = int(input())
+# C = int(input())
 
-if A - B < 0:
-    d1 = B - A
-else:
-    d1 = A - B
+# if A - B < 0:
+#     d1 = B - A
+# else:
+#     d1 = A - B
 
-if A - C < 0:
-    d2 = C - A
-else:
-    d2 = A - C
+# if A - C < 0:
+#     d2 = C - A
+# else:
+#     d2 = A - C
 
-if d1 < d2:
-    print(B, d1)
-else:
-    print(C, d2)
+# if d1 < d2:
+#     print(B, d1)
+# else:
+#     print(C, d2)
 
 # 21-misol
-x = int(input())
-y = int(input())
+# x = int(input())
+# y = int(input())
 
-if x == 0 and y == 0:
-    print(0)
-elif y == 0:
-    print(1)
-elif x == 0:
-    print(2)
-else:
-    print(3)
+# if x == 0 and y == 0:
+#     print(0)
+# elif y == 0:
+#     print(1)
+# elif x == 0:
+#     print(2)
+# else:
+#     print(3)
 
 # 22-misol
-x = int(input())
-y = int(input())
+# x = int(input())
+# y = int(input())
 
-if x > 0 and y > 0:
-    print(1)
-elif x < 0 and y > 0:
-    print(2)
-elif x < 0 and y < 0:
-    print(3)
-else:
-    print(4)
+# if x > 0 and y > 0:
+#     print(1)
+# elif x < 0 and y > 0:
+#     print(2)
+# elif x < 0 and y < 0:
+#     print(3)
+# else:
+#     print(4)
 
 # 23-misol
-x1 = int(input())
-y1 = int(input())
-x2 = int(input())
-y2 = int(input())
-x3 = int(input())
-y3 = int(input())
+# x1 = int(input())
+# y1 = int(input())
+# x2 = int(input())
+# y2 = int(input())
+# x3 = int(input())
+# y3 = int(input())
 
-if x1 == x2:
-    x4 = x3
-elif x1 == x3:
-    x4 = x2
-else:
-    x4 = x1
+# if x1 == x2:
+#     x4 = x3
+# elif x1 == x3:
+#     x4 = x2
+# else:
+#     x4 = x1
 
-if y1 == y2:
-    y4 = y3
-elif y1 == y3:
-    y4 = y2
-else:
-    y4 = y1
+# if y1 == y2:
+#     y4 = y3
+# elif y1 == y3:
+#     y4 = y2
+# else:
+#     y4 = y1
 
-print(x4, y4)
+# print(x4, y4)
 
 # # Parkovka
 
 
-parking = []
+# parking = []
 
-qator = int(input("qator: "))
-ustun = int(input("ustun: "))
+# qator = int(input("qator: "))
+# ustun = int(input("ustun: "))
 
-for i in range(qator):
-    parking.append([0] * ustun)
+# for i in range(qator):
+#     parking.append([0] * ustun)
 
-Mohinur, [22.01.2026 0: 32]
-print("Boshi:")
-for i in range(qator):
-    for j in range(ustun):
-        print(parking[i][j], end=", ")
-    print()
+# Mohinur, [22.01.2026 0: 32]
+# print("Boshi:")
+# for i in range(qator):
+#     for j in range(ustun):
+#         print(parking[i][j], end=", ")
+#     print()
 
-qanchasi = int(input("PARKING: "))
+# qanchasi = int(input("PARKING: "))
 
-while qanchasi > 0:
-    print(f"\nQolgan mashina soni: {qanchasi}")
-    row = int(input("row: "))
-    col = int(input("col: "))
-    if row < 0 or row >= qator or col < 0 or col >= ustun:
-        print("Xato joy. Qayta kiriting.")
-        continue
-    if parking[row][col] != 0:
-        print("Bu joyda mashina bor. Boshqa joy tanlang.")
-        continue
+# while qanchasi > 0:
+#     print(f"\nQolgan mashina soni: {qanchasi}")
+#     row = int(input("row: "))
+#     col = int(input("col: "))
+#     if row < 0 or row >= qator or col < 0 or col >= ustun:
+#         print("Xato joy. Qayta kiriting.")
+#         continue
+#     if parking[row][col] != 0:
+#         print("Bu joyda mashina bor. Boshqa joy tanlang.")
+#         continue
 
-    car_name = input("car name: ")
-    parking[row][col] = car_name
-    qanchasi -= 1
+#     car_name = input("car name: ")
+#     parking[row][col] = car_name
+#     qanchasi -= 1
 
-print("\nYakuniy holat:")
-for i in range(qator):
-    for j in range(ustun):
-        print(parking[i][j], end=", ")
-    print()
+# print("\nYakuniy holat:")
+# for i in range(qator):
+#     for j in range(ustun):
+#         print(parking[i][j], end=", ")
+#     print()
 
-# Boshlang'ich ma'lumotlar
-parol = "1234"
-balans = 1000000
+# Birinchi  ma'lumotlar
+# parol = "1234"
+# balans = 1000000
 
 # Til tanlash
-print("1 - O'zbekcha")
-print("2 - Ruscha")
-print("3 - Inglizcha")
-til = input("Tilni tanlang: ")
+# print("1 - O'zbekcha")
+# print("2 - Ruscha")
+# print("3 - Inglizcha")
+# til = input("Tilni tanlang: ")
 
-kiritilgan_parol = input("Parolni kiriting: ")
+# kiritilgan_parol = input("Parolni kiriting: ")
 
-if kiritilgan_parol != parol:
-    print("Parol noto‘g‘ri")
-else:
-    while True:
-        print("\n--- Bosh menyu ---")
-        print("1 - Balansni tekshirish")
-        print("2 - Naqd pul olish")
-        print("3 - SMS xabar ulash")
-        print("4 - Parolni o‘zgartirish")
-        print("5 - Mobil aloqa uchun to‘lov")
-        print("6 - Kredit to‘lovlari")
-        print("7 - Kommunal to‘lovlar")
-        print("0 - Chiqish")
+# if kiritilgan_parol != parol:
+#     print("Parol noto‘g‘ri")
+# else:
+#     while True:
+#         print("\n--- Bosh menyu ---")
+#         print("1 - Balansni tekshirish")
+#         print("2 - Naqd pul olish")
+        # print("3 - SMS xabar ulash")
+        # print("4 - Parolni o‘zgartirish")
+        # print("5 - Mobil aloqa uchun to‘lov")
+        # print("6 - Kredit to‘lovlari")
+        # print("7 - Kommunal to‘lovlar")
+        # print("0 - Chiqish")
 
-        tanlov = input("Tanlang: ")
+        # tanlov = input("Tanlang: ")
 
-        if tanlov == "1":
-            print("Balansingizda", balans, "so‘m bor")
-
-
-        elif tanlov == "2":
-            print("50 100 150 200 300 400")
-            summa = int(input("Summani kiriting: "))
-            if summa <= balans:
-                balans -= summa
-                print("Pulni oling")
-            else:
-                print("Balans yetarli emas")
+        # if tanlov == "1":
+        #     print("Balansingizda", balans, "so‘m bor")
 
 
-        elif tanlov == "3":
-            print("1 - Yoqish")
-            print("2 - O‘chirish")
-            sms = input("Tanlang: ")
-            if sms == "1":
-                print("SMS yoqildi")
-            else:
-                print("SMS o‘chirildi")
+        # elif tanlov == "2":
+        #     print("50 100 150 200 300 400")
+        #     summa = int(input("Summani kiriting: "))
+        #     if summa <= balans:
+        #         balans -= summa
+        #         print("Pulni oling")
+        #     else:
+        #         print("Balans yetarli emas")
 
 
-        elif tanlov == "4":
-            yangi = input("Yangi parolni kiriting: ")
-            parol = yangi
-            print("Parol o‘zgartirildi")
+        # elif tanlov == "3":
+        #     print("1 - Yoqish")
+        #     print("2 - O‘chirish")
+        #     sms = input("Tanlang: ")
+        #     if sms == "1":
+        #         print("SMS yoqildi")
+        #     else:
+        #         print("SMS o‘chirildi")
 
 
-        elif tanlov == "5":
-            print("1 - Uzmobile")
-            print("2 - Beeline")
-            print("3 - Ucell")
-            print("4 - Mobiuz")
-            operator = input("Tanlang: ")
-            summa = int(input("Summani kiriting: "))
-            if summa <= balans:
-                balans -= summa
-                print("To‘lov amalga oshirildi")
-            else:
-                print("Balans yetarli emas")
+        # elif tanlov == "4":
+        #     yangi = input("Yangi parolni kiriting: ")
+        #     parol = yangi
+        #     print("Parol o‘zgartirildi")
 
 
-        elif tanlov == "6":
-            kredit = int(input("Kredit summasini kiriting: "))
-            if kredit <= balans:
-                balans -= kredit
-                print("Kredit to‘landi")
-            else:
-                print("Balans yetarli emas")
+        # elif tanlov == "5":
+        #     print("1 - Uzmobile")
+        #     print("2 - Beeline")
+        #     print("3 - Ucell")
+        #     print("4 - Mobiuz")
+        #     operator = input("Tanlang: ")
+        #     summa = int(input("Summani kiriting: "))
+        #     if summa <= balans:
+        #         balans -= summa
+        #         print("To‘lov amalga oshirildi")
+        #     else:
+        #         print("Balans yetarli emas")
 
 
-        elif tanlov == "7":
-            print("1 - Elektr")
-            print("2 - Gaz")
-            print("3 - Suv")
-            kom = input("Tanlang: ")
-            summa = int(input("Summani kiriting: "))
-            if summa <= balans:
-                balans -= summa
-                print("To‘lov amalga oshirildi")
-            else:
-                print("Balans yetarli emas")
+        # elif tanlov == "6":
+        #     kredit = int(input("Kredit summasini kiriting: "))
+        #     if kredit <= balans:
+        #         balans -= kredit
+        #         print("Kredit to‘landi")
+        #     else:
+        #         print("Balans yetarli emas")
 
 
-        elif tanlov == "0":
-            print("Dastur tugadi")
-            break
+        # elif tanlov == "7":
+        #     print("1 - Elektr")
+        #     print("2 - Gaz")
+        #     print("3 - Suv")
+        #     kom = input("Tanlang: ")
+        #     summa = int(input("Summani kiriting: "))
+        #     if summa <= balans:
+        #         balans -= summa
+        #         print("To‘lov amalga oshirildi")
+        #     else:
+        #         print("Balans yetarli emas")
 
-        else:
-            print("Noto‘g‘ri tanlov")
 
-# Uy ishi ism: NOSIRJONOVA MOHINUR DONIYORBEK QIZI
+        # elif tanlov == "0":
+        #     print("Dastur tugadi")
+        #     break
+
+        # else:
+        #     print("Noto‘g‘ri tanlov")
+
+# Uy ishi ism:  Madinabonu Ahmadjonova  Xamidullo qizi
+
+Madinabonu , [22.01.2026 0: 32]
+# MADINABONU
+
 # M
 for row in range(7):
     for col in range(7):
-        if col == 0 or col == 6 or ((row == col) and (col > 0 and col < 4)) or (row == 1 and col == 5) or (
-                row == 2 and col == 4):
-            print("*", end="")
-        else:
-            print(end=" ")
-    print()
-
-# O
-for row in range(7):
-    for col in range(7):
-        if (col == 0 or col == 6) or (row == 0 or row == 6):
+        if col == 0 or col == 6 or row == col:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
 
-Mohinur, [22.01.2026 0: 32]
-# H
+# A
 for row in range(7):
     for col in range(7):
-        if col == 0 or col == 6 or row == 3:
+        if (col == 0 or col == 6) and row != 0 or (row == 0 and col > 0 and col < 6) or row == 3:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
+
+# D
+for row in range(7):
+    for col in range(7):
+        if col == 0 or ((row == 0 or row == 6) and col < 6) or (col == 6 and row > 0 and row < 6):
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
 
 # I
 for row in range(7):
@@ -1099,6 +1102,7 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+print()
 
 # N
 for row in range(7):
@@ -1108,6 +1112,47 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+print()
+
+# A
+for row in range(7):
+    for col in range(7):
+        if (col == 0 or col == 6) and row != 0 or (row == 0 and col > 0 and col < 6) or row == 3:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# B
+for row in range(7):
+    for col in range(7):
+        if col == 0 or ((row == 0 or row == 3 or row == 6) and col < 6) or (col == 6 and row not in [0,3,6]):
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# O
+for row in range(7):
+    for col in range(7):
+        if col == 0 or col == 6 or row == 0 or row == 6:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# N
+for row in range(7):
+    for col in range(7):
+        if col == 0 or col == 6 or row == col:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
 
 # U
 for row in range(7):
@@ -1117,17 +1162,33 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+print()
 
-# R
+print(" " * 10)  # bo'sh joy
+
+# AHMADJONOVA
+
+# A
 for row in range(7):
     for col in range(7):
-        if col == 0 or (row == 0 or row == 3) and col < 6 or (col == 6 and row < 3) or (row - col == 3):
+        if (col == 0 or col == 6) and row != 0 or (row == 0 and col > 0 and col < 6) or row == 3:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
 
-# N
+# H
+for row in range(7):
+    for col in range(7):
+        if col == 0 or col == 6 or row == 3:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# M
 for row in range(7):
     for col in range(7):
         if col == 0 or col == 6 or row == col:
@@ -1135,43 +1196,27 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+print()
 
-# O
+# A
 for row in range(7):
     for col in range(7):
-        if col == 0 or col == 6 or row == 0 or row == 6:
+        if (col == 0 or col == 6) and row != 0 or (row == 0 and col > 0 and col < 6) or row == 3:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
 
-# S
-
+# D
 for row in range(7):
     for col in range(7):
-        if (row == 0 or row == 3 or row == 6) or (col == 0 and row < 3) or (col == 6 and row > 3):
+        if col == 0 or ((row == 0 or row == 6) and col < 6) or (col == 6 and row > 0 and row < 6):
             print("*", end="")
         else:
             print(" ", end="")
     print()
-
-# I
-for row in range(7):
-    for col in range(7):
-        if row == 0 or row == 6 or col == 3:
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# R
-for row in range(7):
-    for col in range(7):
-        if col == 0 or (row == 0 or row == 3) and col < 6 or (col == 6 and row < 3) or (row - col == 3):
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
+print()
 
 # J
 for row in range(7):
@@ -1181,97 +1226,7 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
-
-# O
-for row in range(7):
-    for col in range(7):
-        if (col == 0 or col == 6) or (row == 0 or row == 6):
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# N
-for row in range(7):
-    for col in range(7):
-        if col == 0 or col == 6 or row == col:
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# O
-for row in range(7):
-    for col in range(7):
-        if (col == 0 or col == 6) or (row == 0 or row == 6):
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# V
-for row in range(7):
-    for col in range(7):
-        if col == row and row < 4 or col + row == 6 and row < 4 or col == 3 and row >= 4:
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# A
-for row in range(7):
-    for col in range(7):
-        if (col == 0 or col == 6) and row != 0 or row == 0 and col > 0 and col < 6 or row == 3:
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# D
-for row in range(7):
-    for col in range(7):
-        if col == 0 or (row == 0 or row == 6) and col < 6 or (col == 6 and row > 0 and row < 6):
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# O
-for row in range(7):
-    for col in range(7):
-        if (col == 0 or col == 6) or (row == 0 or row == 6):
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# N
-for row in range(7):
-    for col in range(7):
-        if col == 0 or col == 6 or row == col:
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-Mohinur, [22.01.2026 0: 32]
-# I
-for row in range(7):
-    for col in range(7):
-        if row == 0 or row == 6 or col == 3:
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
-
-# Y
-for row in range(7):
-    for col in range(7):
-        if (row == col and row < 4) or (row + col == 6 and row < 4) or (col == 3 and row >= 3):
-            print("*", end="")
-        else:
-            print(" ", end="")
-    print()
+print()
 
 # O
 for row in range(7):
@@ -1281,52 +1236,81 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+print()
 
-# R
+# N
 for row in range(7):
     for col in range(7):
-        if col == 0 or (row == 0 or row == 3) and col < 6 or (col == 6 and row < 3) or (row - col == 3):
+        if col == 0 or col == 6 or row == col:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
 
-# B
+# O
 for row in range(7):
     for col in range(7):
-        if col == 0 or (row == 0 or row == 3 or row == 6) and col < 6 or (
-                col == 6 and row != 0 and row != 3 and row != 6):
+        if col == 0 or col == 6 or row == 0 or row == 6:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
 
-# E
+# V
 for row in range(7):
     for col in range(7):
-        if col == 0 or row == 0 or row == 3 or row == 6:
+        if (row == col and row < 4) or (row + col == 6 and row < 4) or (col == 3 and row >= 4):
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
 
-# K
+# A
 for row in range(7):
     for col in range(7):
-        if col == 0 or (row + col == 6 and row < 4) or (row == col and row >= 3):
+        if (col == 0 or col == 6) and row != 0 or (row == 0 and col > 0 and col < 6) or row == 3:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
 
-# Q
+print(" " * 10)
+
+# XAMIDULLO QIZI (asosiy harflar)
+
+# X
 for row in range(7):
     for col in range(7):
-        if row == 0 and col > 0 and col < 6 or row == 6 and col > 0 and col < 5 or col == 0 and row > 0 and row < 6 or col == 6 and row > 0 and row < 5 or row == col and row > 3:
+        if row == col or row + col == 6:
             print("*", end="")
         else:
             print(" ", end="")
     print()
+print()
+
+# A
+for row in range(7):
+    for col in range(7):
+        if (col == 0 or col == 6) and row != 0 or (row == 0 and col > 0 and col < 6) or row == 3:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# M
+for row in range(7):
+    for col in range(7):
+        if col == 0 or col == 6 or row == col:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
 
 # I
 for row in range(7):
@@ -1336,6 +1320,77 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+print()
+
+# D
+for row in range(7):
+    for col in range(7):
+        if col == 0 or ((row == 0 or row == 6) and col < 6) or (col == 6 and row > 0 and row < 6):
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# U
+for row in range(7):
+    for col in range(7):
+        if (col == 0 or col == 6) and row != 6 or (row == 6 and col > 0 and col < 6):
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# L
+for row in range(7):
+    for col in range(7):
+        if col == 0 or row == 6:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# L
+for row in range(7):
+    for col in range(7):
+        if col == 0 or row == 6:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# O
+for row in range(7):
+    for col in range(7):
+        if col == 0 or col == 6 or row == 0 or row == 6:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# Q
+for row in range(7):
+    for col in range(7):
+        if row == 0 and 0 < col < 6 or row == 6 and 0 < col < 5 or col == 0 and 0 < row < 6 or (col == 6 and 0 < row < 5) or (row == col and row > 3):
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
+
+# I
+for row in range(7):
+    for col in range(7):
+        if row == 0 or row == 6 or col == 3:
+            print("*", end="")
+        else:
+            print(" ", end="")
+    print()
+print()
 
 # Z
 for row in range(7):
@@ -1345,6 +1400,7 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+print()
 
 # I
 for row in range(7):
@@ -1354,6 +1410,7 @@ for row in range(7):
         else:
             print(" ", end="")
     print()
+
 
 # # Mavzu:While
 
@@ -1395,11 +1452,11 @@ print(butun, qoldiq)
 # 4-misol
 n = int(input())
 
-tekshir = n
-while tekshir > 1 and tekshir % 3 == 0:
-    tekshir = tekshir // 3
+tekshiruv = n
+while tekshiruv > 1 and tekshiruv % 3 == 0:
+    tekshiruv = tekshiruv // 3
 
-if tekshir == 1:
+if tekshiruv == 1:
     print("3 ning darajasi")
 else:
     print("3 ning darajasi emas")
@@ -1495,7 +1552,7 @@ for i in range(b - 1, a, -1):
     sana += 1
 print(sana)
 
-Mohinur, [22.01.2026 0: 32]
+Madinabonu, [22.01.2026 ]
 # 4-misol
 narx = float(input())
 
@@ -1770,8 +1827,3 @@ def uzunlik_olchov(metr):
     print("km:", metr / 1000)
 
 
-# 16-misol
-print("Ishlolmadim")
-
-# 17-misol
-print("Ishlolmadim")
